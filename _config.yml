@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/TuoLiYuYan.jpg
 # author name
-author: fi3ework
+author: 杨建红
 # signature
-signature: witness me
+signature: just me
 # SNS
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: yjh4866@163.com
+  github: //github.com/yjh4866
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat: /assets/github_qr.png
   qq: 
   weibo: 
   zhihu: 
@@ -25,8 +25,8 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  friendA:
+  friendB:
   friendC: 
 about:
   enable: true
@@ -34,14 +34,14 @@ about:
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: 脱离语言
 # main title
-main_title: fi3ework's Studio.
+main_title: 脱离语言之家
 # subtitle
-subtitle: it's better to burn out than to fade away
-# site haeder image
+subtitle: 技术郎中
+# site header image
 site_header_image: '/intro/index-bg.jpg'
-# post haeder image
+# post header image
 post_header_image: '/intro/post-bg.jpg'
 # 404 image
 _404_image: '/intro/404-bg.jpg'
